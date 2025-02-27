@@ -13,6 +13,8 @@ for (int i = 0; i < 5; i++){
     printf("Cima, Direita\n"); //imprime a direcao do movimento 
 }   
 
+  printf("Mover a Rainha 8 casas para esquerda... \n");
+ 
 for (int i = 0; i < 8; i++){
     printf("Esquerda \n"); //imprime a direcao do movimento
 
