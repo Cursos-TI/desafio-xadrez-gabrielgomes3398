@@ -13,7 +13,10 @@ for (int i = 0; i < 5; i++){
     printf("Cima, Direita\n"); //imprime a direcao do movimento 
 }   
 
-for (int i = 0; i <)
+for (int i = 0; i < 8; i++){
+    
+
+}
 
     return 0;
 }
