@@ -9,9 +9,11 @@ for (int i = 0; i < 5; i++){
 }
    printf ("Mover o bispo 5 casas na diagonal cime e á direira... \n");
    
-for (int i = 0; i< 5; i++){ 
+for (int i = 0; i < 5; i++){ 
     printf("Cima, Direita\n"); //imprime a direcao do movimento 
-}    
+}   
+
+for (int i = 0; i <)
 
     return 0;
 }
