@@ -14,7 +14,7 @@ for (int i = 0; i < 5; i++){
 }   
 
 for (int i = 0; i < 8; i++){
-    
+    printf("Esquerda \n"); //imprime a direcao do movimento
 
 }
 
