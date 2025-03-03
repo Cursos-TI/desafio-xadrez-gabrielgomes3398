@@ -24,5 +24,11 @@ for (int i = 0; i < 8; i++){
 
 }
 
+   while (movimentocompleto --)
+   {
+       for(int i = 0; i < 2; i++) {
+           printf("baixo\n"); // imprime "baixo" duas vezes
+       }
+          
     return 0;
 }
