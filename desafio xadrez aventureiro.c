@@ -11,6 +11,6 @@
        }  
          printf("Esquerda\n"); // imprime "Esquerda" uma vez 
      
-     return 0;
+     return 0; 
 
 }
