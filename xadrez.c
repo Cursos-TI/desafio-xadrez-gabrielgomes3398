@@ -2,7 +2,6 @@
 
 int main() {
 
-    int movimentocompleto = 1 // Flag para controlar o movimento em 'L'
 
     printf("Desafio xadrez!\n");
    
@@ -22,16 +21,17 @@ for (int i = 0; i < 5; i++){
 for (int i = 0; i < 8; i++){
     printf("Esquerda \n"); //imprime a direcao do movimento
 
-}
+
    
    int movimentocompleto = 1 // Flag para controlar o movimento em 'L'
    
-      while (movimentocompleto --)
-      {
+     while (movimentocompleto --){
+
          for(int i = 0; i < 2; i++) { 
            printf("Baixo\n"); // imprime "Baixo" duas vezes 
          } 
          printf("Esquerda\n"); // imprime "Esquerda" uma vez
-      }   
+    }   
+
     return 0;
 }
