@@ -9,7 +9,7 @@ int main() {
                   printf("Baixo\n"); // Imprime "Baixo" duas vezes  
              } 
              printf("Esquerda\n"); // Imprime "Esquerda" uma vez  
-        } 
+        }  
       return 0; 
     
 
