@@ -3,7 +3,7 @@
 int main() {
         int movimentoCompleto = 1; // Flag para controlar movimento em 'L'
         
-        while (movimentoCompleto --)
+        while (movimentoCompleto --) 
          {
              for (int i = 0; i < 2; i++) {
                   printf("Baixo\n"); // Imprime "Baixo" duas vezes 
