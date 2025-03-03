@@ -10,7 +10,7 @@ int main() {
              } 
              printf("Esquerda\n"); // Imprime "Esquerda" uma vez  
         }  
-      return 0; 
+      return 0;  
     
 
     printf("Desafio xadrez!\n");
