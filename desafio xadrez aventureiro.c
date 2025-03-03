@@ -2,7 +2,7 @@
 
    int main(){
    
-     int movimentocompleto = 1 // Flag para controlar o movimento em 'L'
+     int movimentocompleto = 1 // Flag para controlar o movimento em 'L' 
    
        while (movimentocompleto --)
        {
