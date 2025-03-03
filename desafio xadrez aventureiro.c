@@ -6,7 +6,7 @@
    
        while (movimentocompleto --)
        { 
-         for(int i = 0; i < 2; i++) { 
+         for(int i = 0; i < 2; i++) {  
            printf("Baixo\n"); // imprime "Baixo" duas vezes 
        } 
          printf("Esquerda\n"); // imprime "Esquerda" uma vez
