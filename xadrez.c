@@ -2,6 +2,8 @@
 
 int main() {
 
+    int movimentocompleto = 1 // Flag para controlar o movimento em 'L'
+
     printf("Desafio xadrez!\n");
    
     printf("Mover a Torre 5 casas para a direira... \n");
