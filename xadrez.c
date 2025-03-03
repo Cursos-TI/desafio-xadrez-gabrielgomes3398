@@ -23,12 +23,15 @@ for (int i = 0; i < 8; i++){
     printf("Esquerda \n"); //imprime a direcao do movimento
 
 }
-
-   while (movimentocompleto --)
-   {
-       for(int i = 0; i < 2; i++) { 
-           printf("baixo\n"); // imprime "baixo" duas vezes 
-       } 
-
+   
+   int movimentocompleto = 1 // Flag para controlar o movimento em 'L'
+   
+      while (movimentocompleto --)
+      {
+         for(int i = 0; i < 2; i++) { 
+           printf("Baixo\n"); // imprime "Baixo" duas vezes 
+         } 
+         printf("Esquerda\n"); // imprime "Esquerda" uma vez
+      }   
     return 0;
 }
