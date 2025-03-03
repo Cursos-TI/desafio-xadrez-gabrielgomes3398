@@ -28,7 +28,7 @@ for (int i = 0; i < 8; i++){
    {
        for(int i = 0; i < 2; i++) { 
            printf("baixo\n"); // imprime "baixo" duas vezes 
-       }
+       } 
 
     return 0;
 }
